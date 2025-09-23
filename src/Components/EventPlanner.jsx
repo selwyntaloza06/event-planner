@@ -15,7 +15,7 @@ const EventPlanner = () => {
         </p>
         <button className="get-started-button">Get Started!</button>
       </section>
-      <section className="events_category">
+      <section className="events_categories">
         <ul>
           <h2>Wedding Events:</h2>
           <li>Romantic Proposals</li>
