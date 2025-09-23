@@ -7,6 +7,11 @@ const EventPlanner = () => {
             <header>
                 <h1>Welcome to Event Planner</h1>
             </header>
+            <section></section>
+            <section></section>
+            <section></section>
+            <section></section>
+            <section></section>
         </div>
     );
 };
