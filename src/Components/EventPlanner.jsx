@@ -43,7 +43,27 @@ const EventPlanner = () => {
           <li>Dedicated Event Coordinator</li>
         </ul>
       </section>
-      <section></section>
+      <section className="testimonials">
+        <h2>Testimonials</h2>
+        <div className="testimonial">
+          <p>
+            "Our wedding was magical! The planning team made everything flow
+            smoothly from start to finish."
+          </p>
+          <p>
+            <strong>- Andrea & Miguel</strong>
+          </p>
+        </div>
+        <div className="testimonial">
+          <p>
+            "Professional and detail-oriented. Our corporate gala impressed all
+            our partners and guests."
+          </p>
+          <p>
+            <strong>- Daniel Cruz</strong>
+          </p>
+        </div>
+      </section>
       <section></section>
     </div>
   );
