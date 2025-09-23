@@ -31,7 +31,18 @@ const EventPlanner = () => {
           <li>Seminars & Panels</li>
         </ul>
       </section>
-      <section></section>
+      <section className="features">
+        <h2>Features:</h2>
+
+        <ul>
+          <li>Personalized Event Planning Dashboard</li>
+          <li>Real-Time Guest RSVP Updates</li>
+          <li>Trusted Vendor Recommendations</li>
+          <li>Interactive Seating Arrangements</li>
+          <li>Comprehensive Budget Tracker</li>
+          <li>Dedicated Event Coordinator</li>
+        </ul>
+      </section>
       <section></section>
       <section></section>
     </div>
